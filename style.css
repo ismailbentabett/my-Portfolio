@@ -1,0 +1,15 @@
+.responsive {
+    width: 300px;
+    height: auto;
+}
+
+.icon {
+    width: 100px;
+    height: auto;
+}
+
+.typo {
+    text-decoration: underline;
+}
+
+@media screen {}
